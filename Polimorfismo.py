@@ -14,19 +14,22 @@ class CalculadoraCientifica(Calculadora):
                 return a / b
             else:
                 return "Divisão por zero não é permitida."
-class Animal:
-    def fazer_som(self):
+class Aprendiz:
+    def bordao(self):
         pass
-class Cervo(Animal):
-    def fazer_som(self):
+class Lcs(Aprendiz):
+    def bordao(self):
         return "O meu é rosa!"
-class Touro(Animal):
-        def fazer_som(self):
-            return "Preciso fazer uma selfie!"
+class Hnrq(Aprendiz):
+        def bordao(self):
+            return "Vou fazer uma selfie!"
 calc_cientifica = CalculadoraCientifica()
 print("Polimorfismo de sobrecarga")
 print("Soma:", calc_cientifica.calcular(5, 3, "soma"))
-print("Subtração:", calc_cientifica.calcular((10, 4, "subtracao"))
+print("Subtração:", calc_cientifica.calcular(10, 4, "subtracao"))
 print("Multiplicação:", calc_cientifica.calcular(7, 2, "multiplicacao"))
 print("Divisão:", calc_cientifica.calcular(7, 2, "divisao"))
-
+aprendizes = [Lcs(),Hnrq()]
+print("\nPolimorfismo de sobreposição:")
+for Aprendiz in aprendizes:
+    print(Aprendiz.bordao())
