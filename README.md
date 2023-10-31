@@ -1,4 +1,4 @@
-# FundBradPython
+#FundBradPython
 Anotações e Exercícios práticos da Aula de Lógica e Programação da Fundação Bradesco.
 
 >16/10/2023:
@@ -75,6 +75,7 @@ CMD/Terminal:
 ip advanced scan(verificar terminais em sua rede)
 geek uninstaller(desinstalador de softwares+registros...)
 .dism/online/cleanup-image/scanhealth
+GodMod.{ED7BA470-8E54-465E-825C-99712043E01C}
 
 >01/11/2023:19
 >03/11/2023:20
