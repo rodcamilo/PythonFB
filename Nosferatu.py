@@ -16,14 +16,14 @@ while True:
         total = total + 1
         print("Você votou no 24 ISENTÃO!")
     elif voto == 99:
-        print("Resultado da Eleição 100% confiável do IMPERADOR NOSFERATU!\n")
+        print("\nResultado da Eleição 100% confiável do IMPERADOR NOSFERATU!\n")
         print("LADRÃO:", ladrao, "voto(s)!")
         print("POLÍCIA:", policia, "voto(s)!")
         print("ISENTÃO:", isentao, "voto(s)!")
         print("NULOS:", nulos, "voto(s)!")
         print("TOTALIZAÇÃO:", total, "voto(s)!")
         print("\nObrigado por acreditar CEGAMENTE em nossa Ju$tiça Eleitoral!")
-        break
+        print("\n############################################################")
     elif voto == 22:
         nosf = nosf + 1
         total = total + 1
