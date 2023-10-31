@@ -7,5 +7,5 @@ def abri_arquivo():
         df=pd.read_excel(file-path)
         exibir_dados(df)
 def exibir_dados(dataframe):
-result_text.config(state="normal")
-result_text.delete("1.0","end")
+    result_text.config(state="normal")
+    result_text.delete("1.0","end")
