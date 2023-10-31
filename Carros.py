@@ -23,7 +23,7 @@ class Carro:
         estado = "Ligado" if self.ligado else "Desligado"
         print(f"Estado: {estado}")
 #criar objeto
-meu_carro = Carro("Toyota Corolla", 2023, "Prata")
+meu_carro = Carro("T-Cross", 2023, "Preto")
 #exibir objeto
 meu_carro.exibir_infos()
 #ligando carro

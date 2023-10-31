@@ -27,7 +27,7 @@ class BinarySearchTree:
                 return self.right.search(value)
             else:
                 return False
-bst = BinarySearchTree(50)
+bst = BinarySearchTree(60)
 bst.insert(30)
 bst.insert(40)
 bst.insert(50)
