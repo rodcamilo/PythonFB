@@ -1,5 +1,6 @@
 # FundBradPython
 Anotações e Exercícios práticos da Aula de Lógica e Programação da Fundação Bradesco.
+
 >>>04/10/2023<<<1
 >>>05/10/2023<<<2
 >>>06/10/2023<<<3
@@ -70,9 +71,15 @@ MySQL & Python:
 -Conectar Banco de Dados (host, user, senha, arquivo)
 
 >>>30/10/2023<<<17
-
+VSCode/Extensions
 
 >>>31/10/2023<<<18
+Configurações de Rede
+CMD:
+.ipconfig
+.tracert+ipv4
+.ping+ipv4
+
 >>>01/11/2023<<<19
 >>>03/11/2023<<<20
 >>>06/11/2023<<<21
