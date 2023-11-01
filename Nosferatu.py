@@ -25,7 +25,6 @@ while True:
         print("TOTALIZAÇÃO:", total, "voto(s)!")
         print("\nObrigado por acreditar CEGAMENTE em nossa Ju$tiça Eleitoral!")
         print("##############################################################\n")
-        break
     elif voto == 22:
         nosf = nosf + 1
         total = total + 1

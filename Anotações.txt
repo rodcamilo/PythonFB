@@ -87,7 +87,18 @@ dropit(organizador de pastas)
 photorec(recuperação de arquivos)
 
 >01/11/2023:19
->03/11/2023:20
+SQL(Structured Query Language): Linguagem estruturada de busca/manipulação de dados.
+Banco de Dados Relacional: Coleção de tabelas de dados de forma estruturada.
+Comandos básicos:
+.SELECT: Recuperar dados
+.INSERT: Inserir dados
+.UPDATE: Atualizar dados
+.DELETE: Deletar dados
+Estrutura:
+Colunas: Campos
+Linhas: Registros
+Salvar como nome.sql ou .mysql
+
 >06/11/2023:21
 >07/11/2023:22
 >08/11/2023:23
