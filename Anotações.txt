@@ -99,10 +99,6 @@ Salvar como nome.sql ou .mysql
 >06/11/2023:
 Desenvolver Sistema em Python + Banco de Dados.
 
->07/11/2023:22
->08/11/2023:23
->09/11/2023:24
-
 pip install mysql-connector-python
 pip install pandas
 pip install numpy
